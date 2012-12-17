@@ -7,4 +7,4 @@ Created on 2012-12-17
 @email: loststriker@gmail.com
 '''
 
-print 12345
+print 123456
